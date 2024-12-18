@@ -17,3 +17,9 @@ This project is a simple and user-friendly online weather application built usin
   <li>HTML, CSS, JavaScript</li>
   <li>Weather API for real-time data</li>
 </ul>
+
+This project demonstrates a understanding of API integration, responsive web design, and JavaScript logic.
+
+## Screenshot
+
+<img src="" alt="">
