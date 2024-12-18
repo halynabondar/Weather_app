@@ -22,4 +22,4 @@ This project demonstrates a understanding of API integration, responsive web des
 
 ## Screenshot
 
-<img src="" alt="">
+<img src="screencapture.png" alt="screencapture">
